@@ -5,7 +5,6 @@
 
 ## 👩‍💻 Student Information
 - Name: [shahed Muammer]
-[ID:[2320224113
 - Course: Machine Learning
 - Assignment: 2
 
